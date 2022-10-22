@@ -1,0 +1,152 @@
+{
+    "u": {
+        "finger": "index",
+        "hand": "right",
+        "x": 475,
+        "y": 223
+    },
+    "j": {
+        "finger": "index",
+        "hand": "right",
+        "x": 497,
+        "y": 187
+    },
+    "h": {
+        "finger": "index",
+        "hand": "right",
+        "x": 524,
+        "y": 176
+    },
+    "n": {
+        "finger": "index",
+        "hand": "right"
+    },
+    "m": {
+        "finger": "index",
+        "hand": "right"
+    },
+    "k": {
+        "finger": "middle",
+        "hand": "right",
+        "x": 425,
+        "y": 191
+    },
+    "i": {
+        "finger": "middle",
+        "hand": "right",
+        "x": 438,
+        "y": 222
+    },
+    "o": {
+        "finger": "ring",
+        "hand": "right",
+        "x": 405,
+        "y": 242
+    },
+    "l": {
+        "finger": "ring",
+        "hand": "right",
+        "x": 400,
+        "y": 188
+    },
+    "p": {
+        "finger": "pinky",
+        "hand": "right",
+        "x": 364,
+        "y": 234
+    },
+    "b": {
+        "finger": "index",
+        "hand": "right",
+        "x": 532,
+        "y": 126
+    },
+    "q": {
+        "finger": "pinky",
+        "hand": "left",
+        "x": 772,
+        "y": 206
+    },
+    "a": {
+        "finger": "pinky",
+        "hand": "left",
+        "x": 736,
+        "y": 160
+    },
+    "w": {
+        "finger": "ring",
+        "hand": "left",
+        "x": 721,
+        "y": 221
+    },
+    "z": {
+        "finger": "ring",
+        "hand": "left",
+        "x": 744,
+        "y": 106
+    },
+    "s": {
+        "finger": "ring",
+        "hand": "left",
+        "x": 710,
+        "y": 159
+    },
+    "e": {
+        "finger": "middle",
+        "hand": "left",
+        "x": 677,
+        "y": 219
+    },
+    "x": {
+        "finger": "middle",
+        "hand": "left",
+        "x": 634,
+        "y": 147
+    },
+    "d": {
+        "finger": "middle",
+        "hand": "left",
+        "x": 668,
+        "y": 165
+    },
+    "f": {
+        "finger": "index",
+        "hand": "left",
+        "x": 612,
+        "y": 162
+    },
+    "r": {
+        "finger": "index",
+        "hand": "left",
+        "x": 611,
+        "y": 216
+    },
+    "c": {
+        "finger": "index",
+        "hand": "left",
+        "x": 593,
+        "y": 147
+    },
+    "t": {
+        "finger": "index",
+        "hand": "left",
+        "x": 562,
+        "y": 216
+    },
+    "g": {
+        "finger": "index",
+        "hand": "left",
+        "x": 558,
+        "y": 172
+    },
+    "v": {
+        "finger": "index",
+        "hand": "left",
+        "x": 473,
+        "y": 205
+    },
+    "y": {
+        "x": 521,
+        "y": 224
+    }
+}
